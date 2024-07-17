@@ -1,0 +1,9 @@
+faucet_url: https://faucet.edgenet.allora.network/
+name: test_hf
+worker:
+  address: allo1xl5p7fwvjp8wk2mdqkvxm85t6gf5s858jr0uf6
+  boot_nodes: /dns4/head-0-p2p.edgenet.allora.network/tcp/32050/p2p/12D3KooWQgcJ4wiHBWE6H9FxZAVUn84ZAmywQdRk83op2EibWTiZ
+  chain_rpc_address: https://allora-rpc.edgenet.allora.network/
+  chain_topic_id: 3
+  hex_coded_pk: '5f4023d19db8cc0055bf5c277b33e038a19b5db4f26ae977950ae5fcc8cf9773'
+  mnemonic: cross nerve version august equip always produce leopard because bargain tag embody

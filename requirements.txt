@@ -1,0 +1,5 @@
+requests
+flask[async]
+gunicorn[gthread]
+transformers[torch]
+pandas
